@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1554813858 source:c:\users\alumno\desktop\vectores-paralelos-2019\vectores paralelos\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
